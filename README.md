@@ -38,7 +38,6 @@
 ### 📌 About Me
 - 🔭 Previously worked on a React project, now focusing on a NestJS backend
 - 🎯 Deepening my backend expertise daily
-- 🧠 Exploring AI in the near future
 - 📚 I love learning and discovering new tech in my area
 
 ---
